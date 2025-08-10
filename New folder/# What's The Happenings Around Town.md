@@ -1,4 +1,4 @@
-# What's The Happenings Around Town
+ What's The Happenings Around Town
 
 This is a Bootstrap-based web project for showcasing and registering community events.
 
@@ -44,5 +44,6 @@ This is a Bootstrap-based web project for showcasing and registering community e
 - Some video autoplay features may be restricted by browser security settings.
 
 ---
+
 
 © 2025 What's The Happenings Around
